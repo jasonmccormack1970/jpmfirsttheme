@@ -1,0 +1,21 @@
+{
+  "name": "jpmfirsttheme",
+  "displayName": "jpmfirsttheme",
+  "description": "My first colour theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JPM Colour Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JPM Colour Theme-color-theme.json"
+      }
+    ]
+  }
+}
